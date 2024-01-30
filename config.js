@@ -13,9 +13,9 @@ const CONFIG = {
     btnNo: 'No :3',
     question: 'Theres something special about you, and I cant imagine not being around you more. Would you be my girlfriend?<3',
     btnReply: 'I have a gift for you. <3',
-    reply: 'If you love me, you will tell me. Love if you love, dont love if you dont love.',
+    reply: 'I will always love you',
     mess: 'I know you like me too!😘😘',
     messDesc: 'Pick you up to go out soon, okay?',
-    btnAccept: 'Lets do it!<3',
+    btnAccept: 'Call me here!<3',
     messLink: 'https://www.instagram.com/renzznj/'
 }
